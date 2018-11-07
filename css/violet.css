@@ -1,0 +1,120 @@
+/*
+* Template Name: Laaros
+* Author: Venkat
+* 
+*/
+
+/*--------------------------------------------------------------
+  VIOLET COLOR SET
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+  PRIMARY COLOR - #9B59B6
+--------------------------------------------------------------*/
+
+#avatar,
+#nav-menu ul li a,
+ul.list-contacts li i,
+input:focus,
+textarea:focus,
+.nav-dropdown-container { border-color: #9B59B6;}
+
+q,
+blockquote { border-left-color: #9B59B6; }
+
+#nav-menu ul li a i,
+a.close-section:hover:before { border-right-color: #9B59B6; }
+
+a.toggle-newsletter:before,
+footer,
+ul#social-links,
+.content-tab { border-top-color: #9B59B6; }
+
+ul#social-links,
+.btn:hover { border-bottom-color: #9B59B6; }
+
+a,
+.milestone,
+.icon-box i,
+.client,
+.info-price,
+caption,
+.resume-el h3,
+.gmap.map-overlay a.overlay:hover,
+ul.list-contacts li i { color: #9B59B6; }
+
+#nav-menu ul li a:hover,
+#nav-menu ul li a.open,
+.tabs ul li.selected-tab a,
+.btn,
+.bar,
+.arg-bar span,
+.head-table,
+thead,
+ul#filters li a,
+#master-header.open-nav .link-bars { background: #9B59B6; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin: 0 0 20px 0;
+    padding-bottom: 20px;
+    font-weight: 600;
+    color: #9B59B6;
+}
+h1:after,
+h2:after,
+h3:after,
+h4:after,
+h5:after,
+h6:after {
+  background: #9B59B6;
+}
+.serviceBox:before,
+.serviceBox .service-icon,
+.serviceBox .service-icon:after{ background: #9B59B6; }
+.serviceBox:hover .title{ color: #9B59B6; }
+.serviceBox:hover{ box-shadow: 0 0 5px #9B59B6 inset; }
+
+@media (max-width: 991px) {
+
+    #master-header.open-nav:before,
+    a.toggle-newsletter { background: #9B59B6; }
+
+    table tbody tr { border-top-color: #9B59B6; }
+
+}
+
+/*--------------------------------------------------------------
+  SECONDARY COLOR - #8E44AD
+--------------------------------------------------------------*/
+
+q,
+blockquote,
+footer a:hover,
+.fake-th,
+.time-resume { color: #8E44AD; }
+
+#master-header,
+footer,
+.btn:hover,
+.col-table.best .head-table,
+.gmap.map-overlay:before,
+li.item-portfolio > a.selected,
+li.item-portfolio > a:hover,
+ul#filters li a.all-filter,
+ul#filters li a:hover,
+.loader { background: #8E44AD; }
+
+.col-table.best { border-color: #8E44AD; }
+
+.btn { border-bottom-color: #8E44AD; }
+
+@media (max-width: 767px) {
+
+    .count-milestone { color: #8E44AD; }
+
+}

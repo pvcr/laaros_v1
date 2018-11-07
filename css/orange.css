@@ -1,0 +1,95 @@
+/*
+* Template Name: Laaros
+* Author: Venkat
+* 
+*/
+
+/*--------------------------------------------------------------
+  ORANGE COLOR SET
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+  PRIMARY COLOR - #E87E04
+--------------------------------------------------------------*/
+
+#avatar,
+#nav-menu ul li a,
+ul.list-contacts li i,
+input:focus,
+textarea:focus,
+.nav-dropdown-container { border-color: #E87E04;}
+
+q,
+blockquote { border-left-color: #E87E04; }
+
+#nav-menu ul li a i,
+a.close-section:hover:before { border-right-color: #E87E04; }
+
+a.toggle-newsletter:before,
+footer,
+ul#social-links,
+.content-tab { border-top-color: #E87E04; }
+
+ul#social-links,
+.btn:hover { border-bottom-color: #E87E04; }
+
+a,
+.milestone,
+.icon-box i,
+.client,
+.info-price,
+caption,
+.resume-el h3,
+.gmap.map-overlay a.overlay:hover,
+ul.list-contacts li i { color: #E87E04; }
+
+#nav-menu ul li a:hover,
+#nav-menu ul li a.open,
+.tabs ul li.selected-tab a,
+.btn,
+.bar,
+.arg-bar span,
+.head-table,
+thead,
+ul#filters li a,
+#master-header.open-nav .link-bars { background: #E87E04; }
+
+@media (max-width: 991px) {
+
+    #master-header.open-nav:before,
+    a.toggle-newsletter { background: #E87E04; }
+
+    table tbody tr { border-top-color: #E87E04; }
+
+}
+
+/*--------------------------------------------------------------
+  SECONDARY COLOR - #D35400
+--------------------------------------------------------------*/
+
+q,
+blockquote,
+footer a:hover,
+.fake-th,
+.time-resume { color: #D35400; }
+
+#master-header,
+footer,
+.btn:hover,
+.col-table.best .head-table,
+.gmap.map-overlay:before,
+li.item-portfolio > a.selected,
+li.item-portfolio > a:hover,
+ul#filters li a.all-filter,
+ul#filters li a:hover,
+.loader { background: #D35400; }
+
+.col-table.best { border-color: #D35400; }
+
+.btn { border-bottom-color: #D35400; }
+
+@media (max-width: 767px) {
+
+    .count-milestone { color: #D35400; }
+
+}

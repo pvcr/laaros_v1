@@ -1,0 +1,95 @@
+/*
+* Template Name: Laaros
+* Author: Venkat
+* 
+*/
+
+/*--------------------------------------------------------------
+  GRAY COLOR SET
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+  PRIMARY COLOR - #7f8c8d
+--------------------------------------------------------------*/
+
+#avatar,
+#nav-menu ul li a,
+ul.list-contacts li i,
+input:focus,
+textarea:focus,
+.nav-dropdown-container { border-color: #7f8c8d;}
+
+q,
+blockquote { border-left-color: #7f8c8d; }
+
+#nav-menu ul li a i,
+a.close-section:hover:before { border-right-color: #7f8c8d; }
+
+a.toggle-newsletter:before,
+footer,
+ul#social-links,
+.content-tab { border-top-color: #7f8c8d; }
+
+ul#social-links,
+.btn:hover { border-bottom-color: #7f8c8d; }
+
+a,
+.milestone,
+.icon-box i,
+.client,
+.info-price,
+caption,
+.resume-el h3,
+.gmap.map-overlay a.overlay:hover,
+ul.list-contacts li i { color: #7f8c8d; }
+
+#nav-menu ul li a:hover,
+#nav-menu ul li a.open,
+.tabs ul li.selected-tab a,
+.btn,
+.bar,
+.arg-bar span,
+.head-table,
+thead,
+ul#filters li a,
+#master-header.open-nav .link-bars { background: #7f8c8d; }
+
+@media (max-width: 991px) {
+
+    #master-header.open-nav:before,
+    a.toggle-newsletter { background: #7f8c8d; }
+
+    table tbody tr { border-top-color: #7f8c8d; }
+
+}
+
+/*--------------------------------------------------------------
+  SECONDARY COLOR - #5c5c5c
+--------------------------------------------------------------*/
+
+q,
+blockquote,
+footer a:hover,
+.fake-th,
+.time-resume { color: #5c5c5c; }
+
+#master-header,
+footer,
+.btn:hover,
+.col-table.best .head-table,
+.gmap.map-overlay:before,
+li.item-portfolio > a.selected,
+li.item-portfolio > a:hover,
+ul#filters li a.all-filter,
+ul#filters li a:hover,
+.loader { background: #5c5c5c; }
+
+.col-table.best { border-color: #5c5c5c; }
+
+.btn { border-bottom-color: #5c5c5c; }
+
+@media (max-width: 767px) {
+
+    .count-milestone { color: #5c5c5c; }
+
+}
