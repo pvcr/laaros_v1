@@ -10,11 +10,11 @@
 
 
 /* Mailchimp Settings */
-$mailchimp          = true;            // Set to TRUE to use Mailchimp
-$mailchimpApiKey    = '60d0928f77ac53cde1bdea5f6188be0f-us19';               // Your Mailchimp Api Key
-$mailchimpIDList    = 'fb5fa82868';               // Your Mailchimp ID list
-$double_optin       = false;            // Set to TRUE to conrol whether a double opt-in confirmation message is sent
-$send_welcome       = true;            // Set to TRUE to send a welcome message when the subscription is successful. NOTE: $double_optin must be set to FALSE
+$mailchimp          = false;            // Set to TRUE to use Mailchimp
+$mailchimpApiKey    = '';              // Your Mailchimp Api Key
+$mailchimpIDList    = '';              // Your Mailchimp ID list
+$double_optin       = false;           // Set to TRUE to conrol whether a double opt-in confirmation message is sent
+$send_welcome       = false;           // Set to TRUE to send a welcome message when the subscription is successful. NOTE: $double_optin must be set to FALSE
 
 /* File Storage Setting */
 $csv = true;                            // Set to TRUE to save emails in a csv file. Otherwise in a txt file.
